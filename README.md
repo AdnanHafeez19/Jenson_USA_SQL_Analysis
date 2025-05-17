@@ -1,4 +1,5 @@
 Jensen's SQL Data Analysis Project
+
 📊 Overview
 This project involves comprehensive SQL-based analysis of Jensen's retail data to extract actionable insights across customer behavior, staff performance, inventory management, and store operations. Utilizing MySQL, the project addresses key business questions through advanced querying techniques.
 
